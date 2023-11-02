@@ -19,7 +19,7 @@
 ### Create Breakfast Request
 
 ```js
-POST /breakfasts
+POST /breakfast
 ```
 
 ```json
@@ -47,7 +47,7 @@ POST /breakfasts
 ```
 
 ```yml
-Location: {{host}}/Breakfasts/{{id}}
+Location: {{host}}/breakfast/{{id}}
 ```
 
 ```json
@@ -75,7 +75,7 @@ Location: {{host}}/Breakfasts/{{id}}
 ### Get Breakfast Request
 
 ```js
-GET /breakfasts/{{id}}
+GET /breakfast/{{id}}
 ```
 
 ### Get Breakfast Response
@@ -109,7 +109,7 @@ GET /breakfasts/{{id}}
 ### Update Breakfast Request
 
 ```js
-PUT /breakfasts/{{id}}
+PUT /breakfast/{{id}}
 ```
 
 ```json
@@ -143,7 +143,7 @@ or
 ```
 
 ```yml
-Location: {{host}}/Breakfasts/{{id}}
+Location: {{host}}/breakfast/{{id}}
 ```
 
 ## Delete Breakfast
@@ -151,7 +151,7 @@ Location: {{host}}/Breakfasts/{{id}}
 ### Delete Breakfast Request
 
 ```js
-DELETE /breakfasts/{{id}}
+DELETE /breakfast/{{id}}
 ```
 
 ### Delete Breakfast Response
