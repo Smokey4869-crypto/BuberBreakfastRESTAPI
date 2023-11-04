@@ -2,7 +2,7 @@ using ErrorOr;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 
-namespace BuberBreakfast.Controllers;
+namespace BuberBreakfast.Api.Controllers;
 
 [ApiController]
 [Route("[controller]")]

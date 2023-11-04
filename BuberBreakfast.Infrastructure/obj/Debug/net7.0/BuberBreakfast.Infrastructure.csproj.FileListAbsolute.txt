@@ -1,0 +1,15 @@
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\bin\Debug\net7.0\BuberBreakfast.Infrastructure.deps.json
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\bin\Debug\net7.0\BuberBreakfast.Infrastructure.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\bin\Debug\net7.0\BuberBreakfast.Infrastructure.pdb
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\BuberBreakfast.Infrastructure.csproj.AssemblyReference.cache
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\BuberBreakfast.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\BuberBreakfast.Infrastructure.AssemblyInfoInputs.cache
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\BuberBreakfast.Infrastructure.AssemblyInfo.cs
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\BuberBreakfast.Infrastructure.csproj.CoreCompileInputs.cache
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\BuberBreakfast.Infrastructure.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\refint\BuberBreakfast.Infrastructure.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\BuberBreakfast.Infrastructure.pdb
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\ref\BuberBreakfast.Infrastructure.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\bin\Debug\net7.0\BuberBreakfast.Application.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\bin\Debug\net7.0\BuberBreakfast.Application.pdb
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\BuberBreakfast.Infrastructure.csproj.CopyComplete

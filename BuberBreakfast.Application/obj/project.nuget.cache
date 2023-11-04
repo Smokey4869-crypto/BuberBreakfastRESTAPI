@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDtzk9+8dTKZBsMzKBH4NhB6fNkFqgr5K4Fvjdkn4gHcdyoda1hxBxy1K70AWyBiJcgmefgIMoZhVSiXc7lDkg==",
+  "success": true,
+  "projectFilePath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Application\\BuberBreakfast.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

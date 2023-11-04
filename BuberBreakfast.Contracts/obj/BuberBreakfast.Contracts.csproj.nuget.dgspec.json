@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
+    "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
   },
   "projects": {
-    "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+    "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectUniqueName": "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "projectName": "BuberBreakfast.Contracts",
-        "projectPath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectPath": "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\obj\\",
+        "outputPath": "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

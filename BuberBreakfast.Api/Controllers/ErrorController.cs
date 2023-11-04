@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace BuberBreakfast.Controllers;
+namespace BuberBreakfast.Api.Controllers;
 
 public class ErrorController : ControllerBase
 {

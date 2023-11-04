@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "rUN3H+LCjIXNk9bgTt0uQ6X7/WG2HMYgjFlli08yqkg=",
-  "Source": "BuberBreakfast",
-  "BasePath": "_content/BuberBreakfast",
+  "Hash": "ybGp5IyoMEdgXc5GFldywG4Ay6gsHKR750JIFLr4VSQ=",
+  "Source": "BuberBreakfast.Api",
+  "BasePath": "_content/BuberBreakfast.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

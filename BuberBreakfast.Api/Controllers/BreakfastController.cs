@@ -5,7 +5,7 @@ using BuberBreakfast.Services.Breakfast;
 using ErrorOr;
 using BuberBreakfast.ServiceErrors;
 
-namespace BuberBreakfast.Controllers;
+namespace BuberBreakfast.Api.Controllers;
 
 [ApiController]
 [Route("[controller]")]
