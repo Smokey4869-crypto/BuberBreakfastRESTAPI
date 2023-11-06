@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using BuberBreakfast.Contracts.Authentication;
 using BuberBreakfast.Application.Services.Authentication;
+using BuberBreakfast.Api.Filter;
 
 namespace BuberBreakfast.Api.Controllers;
 

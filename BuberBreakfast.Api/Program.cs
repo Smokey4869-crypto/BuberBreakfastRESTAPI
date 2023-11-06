@@ -1,6 +1,9 @@
-using BuberBreakfast.Services.Breakfast;
 using BuberBreakfast.Application;
 using BuberBreakfast.Infrastructure;
+using BuberBreakfast.Api.Middleware;
+using BuberBreakfast.Api.Filter;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
+using BuberBreakfast.Api.Errors;
 
 var builder = WebApplication.CreateBuilder(args);
 {
@@ -9,11 +12,12 @@ var builder = WebApplication.CreateBuilder(args);
         .AddInfrastructure(builder.Configuration);
 
     builder.Services.AddControllers();
-    builder.Services.AddScoped<IBreakfastService, BreakfastService>();
+    builder.Services.AddSingleton<ProblemDetailsFactory, BuberBreakfastProblemDetailsFactory>();
 }
 
 var app = builder.Build();
 {
+    // app.UseMiddleware<ErrorHandlingMiddleware>(); using middleware for error handling
     app.UseExceptionHandler("/error");
     app.UseHttpsRedirection();
     app.MapControllers();
