@@ -984,6 +984,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "BuberBreakfast.Domain": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "compile": {
@@ -1001,6 +1002,16 @@
         },
         "runtime": {
           "bin/placeholder/BuberBreakfast.Contracts.dll": {}
+        }
+      },
+      "BuberBreakfast.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BuberBreakfast.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberBreakfast.Domain.dll": {}
         }
       },
       "BuberBreakfast.Infrastructure/1.0.0": {
@@ -2528,6 +2539,11 @@
       "path": "../BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
       "msbuildProject": "../BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj"
     },
+    "BuberBreakfast.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BuberBreakfast.Domain/BuberBreakfast.Domain.csproj",
+      "msbuildProject": "../BuberBreakfast.Domain/BuberBreakfast.Domain.csproj"
+    },
     "BuberBreakfast.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../BuberBreakfast.Infrastructure/BuberBreakfast.Infrastructure.csproj",
@@ -2550,11 +2566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Api\\BuberBreakfast.Api.csproj",
+      "projectUniqueName": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Api\\BuberBreakfast.Api.csproj",
       "projectName": "BuberBreakfast.Api",
-      "projectPath": "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Api\\BuberBreakfast.Api.csproj",
+      "projectPath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Api\\BuberBreakfast.Api.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Api\\obj\\",
+      "outputPath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2574,8 +2590,8 @@
             "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Application\\BuberBreakfast.Application.csproj": {
               "projectPath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Application\\BuberBreakfast.Application.csproj"
             },
-            "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
-              "projectPath": "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj"
+            "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+              "projectPath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj"
             },
             "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Infrastructure\\BuberBreakfast.Infrastructure.csproj": {
               "projectPath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Infrastructure\\BuberBreakfast.Infrastructure.csproj"

@@ -17,6 +17,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "BuberBreakfast.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BuberBreakfast.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberBreakfast.Domain.dll": {}
+        }
       }
     }
   },
@@ -49,10 +59,16 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "BuberBreakfast.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BuberBreakfast.Domain/BuberBreakfast.Domain.csproj",
+      "msbuildProject": "../BuberBreakfast.Domain/BuberBreakfast.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "BuberBreakfast.Domain >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0"
     ]
   },
@@ -82,7 +98,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Domain\\BuberBreakfast.Domain.csproj": {
+              "projectPath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Domain\\BuberBreakfast.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

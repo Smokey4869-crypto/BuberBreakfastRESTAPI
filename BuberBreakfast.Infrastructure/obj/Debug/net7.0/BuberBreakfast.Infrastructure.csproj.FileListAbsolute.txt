@@ -13,3 +13,5 @@ E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\o
 E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\bin\Debug\net7.0\BuberBreakfast.Application.dll
 E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\bin\Debug\net7.0\BuberBreakfast.Application.pdb
 E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\obj\Debug\net7.0\BuberBreakfast.Infrastructure.csproj.CopyComplete
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\bin\Debug\net7.0\BuberBreakfast.Domain.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Infrastructure\bin\Debug\net7.0\BuberBreakfast.Domain.pdb

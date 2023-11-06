@@ -70,3 +70,5 @@ E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\ne
 E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\BuberBreakfast.Application.pdb
 E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\BuberBreakfast.Infrastructure.dll
 E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\BuberBreakfast.Infrastructure.pdb
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\BuberBreakfast.Domain.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\BuberBreakfast.Domain.pdb

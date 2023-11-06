@@ -508,6 +508,7 @@
       },
       "BuberBreakfast.Application/1.0.0": {
         "dependencies": {
+          "BuberBreakfast.Domain": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "runtime": {
@@ -517,6 +518,11 @@
       "BuberBreakfast.Contracts/1.0.0": {
         "runtime": {
           "BuberBreakfast.Contracts.dll": {}
+        }
+      },
+      "BuberBreakfast.Domain/1.0.0": {
+        "runtime": {
+          "BuberBreakfast.Domain.dll": {}
         }
       },
       "BuberBreakfast.Infrastructure/1.0.0": {
@@ -916,6 +922,11 @@
       "sha512": ""
     },
     "BuberBreakfast.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuberBreakfast.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

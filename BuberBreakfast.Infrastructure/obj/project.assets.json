@@ -217,6 +217,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "BuberBreakfast.Domain": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "compile": {
@@ -224,6 +225,16 @@
         },
         "runtime": {
           "bin/placeholder/BuberBreakfast.Application.dll": {}
+        }
+      },
+      "BuberBreakfast.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BuberBreakfast.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberBreakfast.Domain.dll": {}
         }
       }
     }
@@ -541,6 +552,11 @@
       "type": "project",
       "path": "../BuberBreakfast.Application/BuberBreakfast.Application.csproj",
       "msbuildProject": "../BuberBreakfast.Application/BuberBreakfast.Application.csproj"
+    },
+    "BuberBreakfast.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BuberBreakfast.Domain/BuberBreakfast.Domain.csproj",
+      "msbuildProject": "../BuberBreakfast.Domain/BuberBreakfast.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {

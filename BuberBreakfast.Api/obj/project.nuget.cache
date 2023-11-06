@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gkCfwMZntz0lTNyTf7R0aciGdU8Mp6yCixwWZqu/8i/3098rl2mLw4epSnhPFn2wgtCsAaAqGMmtxzpWa5A/pQ==",
+  "dgSpecHash": "YPljI8kIVRpYI0mnKjOSZWkhL5bK2bmv0Dqw/i4U/4d/TyLHYbjACDqPgpYBBp+Iw5lmyXe8S0oW/BNh8cbtsg==",
   "success": true,
-  "projectFilePath": "e:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Api\\BuberBreakfast.Api.csproj",
+  "projectFilePath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Api\\BuberBreakfast.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

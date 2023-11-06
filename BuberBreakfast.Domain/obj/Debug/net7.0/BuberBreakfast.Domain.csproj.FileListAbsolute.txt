@@ -1,0 +1,12 @@
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\bin\Debug\net7.0\BuberBreakfast.Domain.deps.json
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\bin\Debug\net7.0\BuberBreakfast.Domain.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\bin\Debug\net7.0\BuberBreakfast.Domain.pdb
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\obj\Debug\net7.0\BuberBreakfast.Domain.csproj.AssemblyReference.cache
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\obj\Debug\net7.0\BuberBreakfast.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\obj\Debug\net7.0\BuberBreakfast.Domain.AssemblyInfoInputs.cache
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\obj\Debug\net7.0\BuberBreakfast.Domain.AssemblyInfo.cs
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\obj\Debug\net7.0\BuberBreakfast.Domain.csproj.CoreCompileInputs.cache
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\obj\Debug\net7.0\BuberBreakfast.Domain.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\obj\Debug\net7.0\refint\BuberBreakfast.Domain.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\obj\Debug\net7.0\BuberBreakfast.Domain.pdb
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Domain\obj\Debug\net7.0\ref\BuberBreakfast.Domain.dll
