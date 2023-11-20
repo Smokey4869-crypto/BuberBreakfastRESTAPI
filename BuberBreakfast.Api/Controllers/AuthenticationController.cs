@@ -1,7 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using BuberBreakfast.Contracts.Authentication;
 using BuberBreakfast.Application.Services.Authentication;
-using BuberBreakfast.Api.Filter;
+using ErrorOr;
+using BuberBreakfast.Domain.Common.Errors;
 
 namespace BuberBreakfast.Api.Controllers;
 
@@ -19,22 +20,17 @@ public class AuthenticationController : ApiController
     [HttpPost("register")]
     public IActionResult Register(RegisterRequest request)
     {
-        var authResult = _authenticationService.Register(
+        ErrorOr<AuthenticationResult> authResult = _authenticationService.Register(
             request.FirstName,
             request.LastName,
             request.Email,
-            request.Password  
+            request.Password
         );
 
-        var response = new AuthenticationResponse(
-            authResult.User.Id,
-            authResult.User.FirstName,
-            authResult.User.LastName,
-            authResult.User.Email,
-            authResult.Token
+        return authResult.Match(
+            authResult => Ok(MapAuthResult(authResult)),
+            error => Problem(error)
         );
-
-        return Ok(response);
     }
 
     [HttpPost("login")]
@@ -42,16 +38,29 @@ public class AuthenticationController : ApiController
     {
         var authResult = _authenticationService.Login(
             request.Email,
-            request.Password  
+            request.Password
         );
 
-        var response = new AuthenticationResponse(
+        // Custom response
+        if (authResult.IsError && authResult.FirstError == Errors.Authentication.InvalidCredentials)
+        {
+            return Problem(statusCode: StatusCodes.Status401Unauthorized, title: authResult.FirstError.Description);
+        }
+
+        return authResult.Match(
+            authResult => Ok(MapAuthResult(authResult)),
+            error => Problem(error)
+        );
+    }
+
+    private static AuthenticationResponse MapAuthResult(AuthenticationResult authResult)
+    {
+        return new AuthenticationResponse(
             authResult.User.Id,
             authResult.User.FirstName,
             authResult.User.LastName,
             authResult.User.Email,
             authResult.Token
         );
-        return Ok(response);
     }
 }

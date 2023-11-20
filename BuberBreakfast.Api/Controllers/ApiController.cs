@@ -1,3 +1,4 @@
+using BuberBreakfast.Api.Common.Http;
 using ErrorOr;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
@@ -5,11 +6,12 @@ using Microsoft.AspNetCore.Mvc.ModelBinding;
 namespace BuberBreakfast.Api.Controllers;
 
 [ApiController]
-[Route("[controller]")]
 public class ApiController : ControllerBase 
 {
     protected IActionResult Problem(List<Error> errors) 
     {
+        HttpContext.Items[HttpContextItemKeys.Errors] = errors;
+
         if (errors.All(e => e.Type == ErrorType.Validation)) 
         {   
             var modelStateDictionary = new ModelStateDictionary();

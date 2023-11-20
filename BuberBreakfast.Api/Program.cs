@@ -1,9 +1,7 @@
 using BuberBreakfast.Application;
 using BuberBreakfast.Infrastructure;
-using BuberBreakfast.Api.Middleware;
-using BuberBreakfast.Api.Filter;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
-using BuberBreakfast.Api.Errors;
+using BuberBreakfast.Api.Common.Errors;
 
 var builder = WebApplication.CreateBuilder(args);
 {
@@ -18,7 +16,7 @@ var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 {
     // app.UseMiddleware<ErrorHandlingMiddleware>(); using middleware for error handling
-    app.UseExceptionHandler("/error");
+    // app.UseExceptionHandler("/error");
     app.UseHttpsRedirection();
     app.MapControllers();
     app.Run();

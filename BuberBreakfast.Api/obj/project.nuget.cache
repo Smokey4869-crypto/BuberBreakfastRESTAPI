@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YPljI8kIVRpYI0mnKjOSZWkhL5bK2bmv0Dqw/i4U/4d/TyLHYbjACDqPgpYBBp+Iw5lmyXe8S0oW/BNh8cbtsg==",
+  "dgSpecHash": "rkB2YGdrLMRy1xC4/7hL23PFd525FCp4LZaud0RA11z/0NxYLZop6WH1kMA+UoCDVPGAtrfSbMIYEuxkoNWlbA==",
   "success": true,
   "projectFilePath": "E:\\minh\\Study\\asp-dotnet-rest-api\\BuberBreakfast\\BuberBreakfast.Api\\BuberBreakfast.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",

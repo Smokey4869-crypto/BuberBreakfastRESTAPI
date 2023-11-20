@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using BuberBreakfast.Models;
 using BuberBreakfast.Services.Breakfast;
 using ErrorOr;
-using BuberBreakfast.ServiceErrors;
 
 namespace BuberBreakfast.Api.Controllers;
 
