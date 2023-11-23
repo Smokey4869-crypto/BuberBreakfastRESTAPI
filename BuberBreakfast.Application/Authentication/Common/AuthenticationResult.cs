@@ -1,8 +1,8 @@
 using BuberBreakfast.Domain.Entities;
 
-namespace BuberBreakfast.Application.Services.Authentication;
+namespace BuberBreakfast.Application.Authentication.Common;
 
 public record AuthenticationResult(
-    User User,
+    User User, 
     string Token
 );

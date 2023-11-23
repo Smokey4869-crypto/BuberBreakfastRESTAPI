@@ -73,3 +73,12 @@ E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\ne
 E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\BuberBreakfast.Domain.dll
 E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\BuberBreakfast.Domain.pdb
 E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\FluentResults.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\MediatR.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\minh\Study\asp-dotnet-rest-api\BuberBreakfast\BuberBreakfast.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
